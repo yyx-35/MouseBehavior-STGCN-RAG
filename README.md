@@ -1,12 +1,12 @@
 # MouseBehavior-STGCN-RAG
 
-基于 ST-GCN 与大语言模型的小鼠行为时空分析与智能健康诊断系统
+基于 ST-GCN 与大语言模型的小鼠行为时空分析系统
 
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.6.0-red.svg)](https://pytorch.org/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-> 从视频中自动识别小鼠 9 种精细行为，并通过 RAG 增强的大语言模型生成专业健康诊断报告。
+> 从视频中自动识别小鼠 9 种精细行为，并通过 RAG 增强的大语言模型在人机交互界面进行智能交互。
 
 ## 核心功能
 
